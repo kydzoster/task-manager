@@ -17,3 +17,15 @@
 ##### 11. add, commit and push to heroku
 ##### 12. run it ***heroku ps:scale web=1***
 ##### 13. go to heroku Settings > Reveal config Vars add IP 0.0.0.0 and PORT 5000
+
+
+
+## Installations
+
+##### 1. Install ***pip3 install flask-pymongo*** for flask to be able to work with MongoDB
+##### 2. Install ***pip3 install dnspython*** for new style connection string for MongoDB
+
+## Libraries, Templates
+
+##### 1. https://materializecss.com/collapsible.html -Accordion, collapsible task bars-
+##### 2. https://material.io/resources/icons/?icon=expand_more&style=baseline -Icons from Material.io-
