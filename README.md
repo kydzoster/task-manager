@@ -14,4 +14,6 @@
 ##### 8. ***git commit -m""*** in Terminal
 ##### 9. Deploy on heroku ***git push heroku master***
 ##### 10. Create a ***echo web: python app.py > Procfile***
-##### 11. add and commit
+##### 11. add, commit and push to heroku
+##### 12. run it ***heroku ps:scale web=1***
+##### 13. go to heroku Settings > Reveal config Vars add IP 0.0.0.0 and PORT 5000
